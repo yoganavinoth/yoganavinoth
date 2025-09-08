@@ -3,17 +3,17 @@
 
 ---
 
-# Yoganavinoth
+# About Me
 
 💡 Passionate about AI, Machine Learning, and Data Science  
-✨ Exploring the next era of Agentic AI, **Generative AI, and **RAG-powered systems  
+✨ Exploring the next era of Agentic AI, Generative AI, and RAG-powered systems  
 🚀 I love experimenting with AI Agents, Automation workflows (n8n, Make), and Intelligent Assistants  
 🎯 On a mission to bridge AI with real-world applications — from healthcare AI assistants to WhatsApp AI chatbots  
 📚 I enjoy building open-source projects, creating tutorials, and sharing knowledge with the community.  
 
 ---
 
-### 🌐 Connect with me (horizontal, real icons)
+### 🌐 Connect with me 
 
 <p align="center">
   <a href="https://linkedin.com/in/yogana-vinoth-532a61254" target="_blank" rel="noopener noreferrer">

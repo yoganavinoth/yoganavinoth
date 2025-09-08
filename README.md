@@ -16,7 +16,7 @@
 ### 🌐 Connect with me 
 
 <p align="center">
-  <a href="https://linkedin.com/in/yogana-vinoth-532a61254" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/yogana-s-532a61254/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://youtube.com/@AIstreami" target="_blank" rel="noopener noreferrer">

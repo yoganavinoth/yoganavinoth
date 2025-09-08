@@ -1,9 +1,7 @@
 <!-- Typing Animation Header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Yoganavinoth;AI+Engineer+%7C+ML+%7C+Generative+AI;Agentic+AI+%7C+Automation+%7C+RAG;Open+Source+Contributor+%7C+AI+Innovator" alt="Typing Animation" />
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Yoganavinoth;AI+Engineer+%7C+ML+%7C+Generative+AI;Agentic+AI+%7C+Automation+%7C+RAG;Open+Source+Contributor+%7C+AI+Innovator" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -21,13 +19,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yogana-vinoth-532a61254" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
   </a>
   <a href="https://youtube.com/@AIstreami" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="48" />
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png"/>
   </a>
   <a href="https://instagram.com/aistreami" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>
 </p>
 
@@ -52,13 +50,13 @@
 
 ### 🤖 AI & Automation  
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Agent-6C63FF?style=for-the-badge&logo=robot-framework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-2F80ED?style=for-the-badge&logo=make&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WhatsApp_AI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agent-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Make-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WhatsApp_AI-25D366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge"/>
 </p>
 
 ---
@@ -79,5 +77,5 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoganavinoth&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yoganavinoth&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
 </p>

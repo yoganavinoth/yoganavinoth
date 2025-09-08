@@ -3,22 +3,36 @@
 
 ---
 
-💡 Passionate about *AI, Machine Learning, and Data Science*  
-✨ Exploring the next era of *Agentic AI, **Generative AI, and **RAG-powered systems*  
-🚀 I love experimenting with *AI Agents, Automation workflows (n8n, Make), and Intelligent Assistants*  
-🎯 On a mission to *bridge AI with real-world applications* — from *healthcare AI assistants* to *WhatsApp AI chatbots*  
-📚 I enjoy building *open-source projects*, creating tutorials, and sharing knowledge with the community.  
+# Yoganavinoth
+
+💡 Passionate about AI, Machine Learning, and Data Science  
+✨ Exploring the next era of Agentic AI, **Generative AI, and **RAG-powered systems  
+🚀 I love experimenting with AI Agents, Automation workflows (n8n, Make), and Intelligent Assistants  
+🎯 On a mission to bridge AI with real-world applications — from healthcare AI assistants to WhatsApp AI chatbots  
+📚 I enjoy building open-source projects, creating tutorials, and sharing knowledge with the community.  
 
 ---
 
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogana-vinoth-532a61254)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AIstreami)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aistreami)  
+### 🌐 Connect with me (horizontal, real icons)
+
+<p align="center">
+  <a href="https://linkedin.com/in/yogana-vinoth-532a61254" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@AIstreami" target="_blank" rel="noopener noreferrer">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/aistreami" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/yoganavinoth" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### ⚡ Tech Stack  
+### ⚡ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,13 +67,39 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats & Trophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoganavinoth&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoganavinoth&layout=compact&theme=radical" height="160"/>
+  <!-- GitHub Stats (left) and Top Languages (right) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yoganavinoth&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoganavinoth&layout=compact&theme=radical" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yoganavinoth&theme=radical&hide_border=true" height="160"/>
+  <!-- Streak & Trophy -->
+  <img src="https://streak-stats.demolab.com?user=yoganavinoth&theme=radical&hide_border=true" height="160" alt="Streak Stats"/>
+  <!-- GitHub Trophy (real trophy widget) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yoganavinoth&theme=radical" height="160" alt="Trophies"/>
 </p>
+
+---
+
+## About / Highlights
+
+- Built a central dashboard with overview of all features  
+- Added Panchang module with daily astrological calculations  
+- Created Kundli generator with birth chart system  
+- Implemented marriage compatibility matching with 8-factor analysis  
+- Made it fully responsive for all devices  
+- Used React with TypeScript and professional UI components for a clean, scalable interface  
+
+---
+
+### Want changes?
+If you'd like:
+- the social icons smaller/larger,
+- a dark/light-only theme for badges,
+- icons aligned left instead of center,
+- or an SVG-based custom icon pack for real vector icons,
+
+tell me which and I'll give you the exact snippet.

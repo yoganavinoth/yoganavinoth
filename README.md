@@ -82,24 +82,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yoganavinoth&theme=radical" height="160" alt="Trophies"/>
 </p>
 
----
 
-## About / Highlights
-
-- Built a central dashboard with overview of all features  
-- Added Panchang module with daily astrological calculations  
-- Created Kundli generator with birth chart system  
-- Implemented marriage compatibility matching with 8-factor analysis  
-- Made it fully responsive for all devices  
-- Used React with TypeScript and professional UI components for a clean, scalable interface  
-
----
-
-### Want changes?
-If you'd like:
-- the social icons smaller/larger,
-- a dark/light-only theme for badges,
-- icons aligned left instead of center,
-- or an SVG-based custom icon pack for real vector icons,
-
-tell me which and I'll give you the exact snippet.
